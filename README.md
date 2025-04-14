@@ -48,4 +48,4 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?perline=20&i=go,python,java,mysql,redis,elasticsearch,aws,azure,docker,k8s,linux,kafka,rabbitmq,git,nginx,postman,git,windows,vite,vscode,svg,ps,npm,nodejs,nginx,md,github,c,cpp,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=20&i=go,python,java,mysql,redis,elasticsearch,aws,azure,docker,k8s,linux,kafka,rabbitmq,git,nginx,postman,vscode,nginx,c,cpp)](https://skillicons.dev)
