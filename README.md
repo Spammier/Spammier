@@ -14,7 +14,7 @@
 *   **⚙️ 框架与平台:** `Spring Boot`, `Gin/Echo`, `Gorm`, `Mybatis`
 *   **🗄️ 数据库:** `MySQL`, `Redis`, `Elasticsearch`
 *   **☁️ 云服务 & DevOps:** `AWS/阿里云/Azure`, `Docker`, `Kubernetes (K8s)`,  `Linux`
-*   ** Messaing Queues:** `Kafka`, `RabbitMQ`, `RocketMQ`
+*   **Messaing Queues:** `Kafka`, `RabbitMQ`, `RocketMQ`
 *   **🔗 API & 协议:** `RESTful API`, `GraphQL`, `gRPC`, `WebSocket`
 *   **🔧 其他工具:** `Git`, `Nginx`, `Postman/Insomnia`
 
