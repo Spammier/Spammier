@@ -10,13 +10,13 @@
 
 以下是我常用的技术和工具：
 
-*   **💻 编程语言:** `[例如: Java]`, `[例如: Python]`, `[例如: Go]`, `[例如: Node.js]`, `[例如: PHP]`, `[例如: C#]`
-*   **⚙️ 框架与平台:** `[例如: Spring Boot]`, `[例如: Django/Flask]`, `[例如: Gin/Echo]`, `[例如: Express.js]`, `[例如: Laravel]`, `[例如: .NET Core]`
-*   **🗄️ 数据库:** `[例如: MySQL]`, `[例如: PostgreSQL]`, `[例如: MongoDB]`, `[例如: Redis]`, `[例如: Elasticsearch]`
-*   **☁️ 云服务 & DevOps:** `[例如: AWS/阿里云/Azure]`, `[例如: Docker]`, `[例如: Kubernetes (K8s)]`, `[例如: Jenkins/GitLab CI/GitHub Actions]`, `[例如: Linux]`
-*   ** Messaing Queues:** `[例如: Kafka]`, `[例如: RabbitMQ]`, `[例如: RocketMQ]`
-*   **🔗 API & 协议:** `[例如: RESTful API]`, `[例如: GraphQL]`, `[例如: gRPC]`, `[例如: WebSocket]`
-*   **🔧 其他工具:** `[例如: Git]`, `[例如: Nginx]`, `[例如: Postman/Insomnia]`
+*   **💻 编程语言:** `Java`, `Python`, `Go`
+*   **⚙️ 框架与平台:** `Spring Boot`, `Gin/Echo`, `Gorm`, `Mybatis`
+*   **🗄️ 数据库:** `MySQL`, `Redis`, `Elasticsearch`
+*   **☁️ 云服务 & DevOps:** `AWS/阿里云/Azure`, `Docker`, `Kubernetes (K8s)`,  `Linux`
+*   ** Messaing Queues:** `Kafka`, `RabbitMQ`, `RocketMQ`
+*   **🔗 API & 协议:** `RESTful API`, `GraphQL`, `gRPC`, `WebSocket`
+*   **🔧 其他工具:** `Git`, `Nginx`, `Postman/Insomnia`
 
 ---
 
