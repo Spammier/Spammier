@@ -24,10 +24,11 @@
 
 我总是在不断学习和探索新的技术，目前关注的领域包括：
 
-*   `[例如: 微服务架构的最佳实践]`
-*   `[例如: Serverless 计算]`
-*   `[例如: Rust 语言在后端开发中的应用]`
-*   `[例如: 更深入的 Kubernetes 知识]`
+*   `AIGC`
+*   `微服务架构的最佳实践`
+*   `Serverless 计算`
+*   `Rust 语言在后端开发中的应用`
+*   `更深入的 Kubernetes 知识`
 
 ---
 
@@ -35,20 +36,11 @@
 
 我偶尔会写一些技术文章，分享我在后端开发中的学习心得和实践经验。
 
-*   你可以在我的 **[博客名称/平台，例如：个人博客/知乎/掘金]** 上找到我的文章：`[你的博客或文章平台链接]`
+*   你可以在我的 **个人主页** 上找到我的文章：`https://tckpemiuuvsp.sealoshzh.site/`
 *   如果你对我的项目感兴趣或者有任何问题、合作想法，欢迎通过以下方式联系我：
-    *   **📧 邮箱:** `[你的邮箱地址]`
-    *   **(可选) 💼 LinkedIn:** `[你的 LinkedIn 个人资料链接]`
-    *   **(可选) 🐦 Twitter / 其它社交媒体:** `[你的社交媒体链接]`
+    *   **📧 邮箱:** `1581708631@qq.com`
 
 ---
-
-## ✨ 其他
-
-*   (可选) 🏆 我参与/贡献过的开源项目：`[链接到项目]`
-*   (可选) 📈 我的 GitHub 统计 (可以使用类似 GitHub Readme Stats 的工具生成)：
-    <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-    <!-- 把上面的注释去掉，并将 username=你的用户名 改成你自己的 GitHub 用户名 -->
 
 <br/>
 
